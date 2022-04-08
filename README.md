@@ -1,1 +1,1 @@
-# hole-in-he-wall-game
+# hole-in-the-wall-game
